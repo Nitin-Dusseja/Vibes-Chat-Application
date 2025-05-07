@@ -203,3 +203,18 @@ Server/
         features.js
         utility.js
   ```      
+---
+### .env (Client)
+- VITE_SERVER
+
+### .env (Server)
+- MONGODB_URI
+- JWT_KEY="(*^*(&(*)^(&*^*&^@()&@!LNASLBKJASBN!123123123@#@@#)))"
+
+- ADMIN_SECRET_KEY
+
+- NODE_ENV = DEVELOPMENT
+
+- CLOUDINARY_CLOUD_NAME
+- CLOUDINARY_API_KEY
+- CLOUDINARY_API_SECRET
