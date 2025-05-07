@@ -54,7 +54,7 @@ A full-featured real-time chat application built with the MERN Stack (MongoDB, E
 git clone https://github.com/YOUR_USERNAME/chat-app.git
 cd chat-app
 ```
-
+```
 Client/
 |   .env
 |   .gitignore
@@ -202,4 +202,4 @@ Server/
 \---utils
         features.js
         utility.js
-        
+  ```      
