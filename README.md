@@ -209,7 +209,7 @@ Server/
 
 ### .env (Server)
 - MONGODB_URI
-- JWT_KEY="(*^*(&(*)^(&*^*&^@()&@!LNASLBKJASBN!123123123@#@@#)))"
+- JWT_KEY
 
 - ADMIN_SECRET_KEY
 
