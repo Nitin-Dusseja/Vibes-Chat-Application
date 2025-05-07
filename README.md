@@ -1,4 +1,4 @@
-# Real-Time Chat Application 💬
+# Real-Time Chat Application(Vibes) 💬
 
 A full-featured real-time chat application built with the MERN Stack (MongoDB, Express.js, React.js, Node.js), featuring real-time messaging with Socket.IO, user authentication, image uploads, and a responsive UI with Material UI.
 
@@ -51,7 +51,7 @@ A full-featured real-time chat application built with the MERN Stack (MongoDB, E
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chat-app.git
+git clone https://github.com/Nitin-Dusseja/Vibes-Chat-Application
 cd chat-app
 ```
 ```
